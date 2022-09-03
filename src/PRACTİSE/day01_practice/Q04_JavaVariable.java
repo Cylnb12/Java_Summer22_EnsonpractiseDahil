@@ -1,4 +1,4 @@
-package day01_practice;
+package PRACTİSE.day01_practice;
 
 public class Q04_JavaVariable {
     public static void main(String[] args) {

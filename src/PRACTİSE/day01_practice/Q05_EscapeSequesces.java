@@ -1,4 +1,4 @@
-package day01_practice;
+package PRACTİSE.day01_practice;
 
 public class Q05_EscapeSequesces {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package day02_practice;
+package PRACTİSE.day02_practice;
 
 public class Q10_NestedTernary {
     public static void main(String[] args) {

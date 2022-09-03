@@ -1,4 +1,4 @@
-package day01_practice;
+package PRACTİSE.day01_practice;
 
 public class Q02_println_vs_print {
     public static void main(String[] args) {
